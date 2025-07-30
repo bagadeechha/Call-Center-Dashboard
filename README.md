@@ -63,6 +63,6 @@ The dataset includes:
 A dynamic dashboard that enables stakeholders to make data-driven decisions to improve customer service, allocate resources efficiently, and enhance agent training programs.
 
 Show the Dashboard looks like...[https://github.com/bagadeechha/Call-Center-Dashboard/blob/main/call%20center%20shot.jpg]
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/bagadeechha/Call-Center-Dashboard/blob/main/call%20center%20shot.jpg)
 
 
